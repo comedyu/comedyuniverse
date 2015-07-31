@@ -1,0 +1,27 @@
+.movies{
+  background-color: black;
+  width: 160px;
+  height: 250px;
+  display: inline-block;
+  padding: 20px;
+  margin-top: 15px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.movierow{
+  text-align: justify;
+  width: 100%;
+}
+.train{
+  background-image: url(../img/train.jpg);
+}
+.gethard{
+    background-image: url(../img/gethard.jpg);
+}
+.ringer{
+    background-image: url(../img/ringer.jpg);
+}
+.ted{
+    background-image: url(../img/ted.jpg);
+}
